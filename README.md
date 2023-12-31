@@ -17,6 +17,8 @@ As a solution, the Bellabeat app can go beyond tracking and displaying activitie
 ![image](https://github.com/KiattiphumSuw/Google-Data-Analytics-Bellabeat-Case-study-with-R/assets/83391695/4661c3fb-3505-4c44-9778-83606f096486)
 ![image](https://github.com/KiattiphumSuw/Google-Data-Analytics-Bellabeat-Case-study-with-R/assets/83391695/d45e09bf-7b0c-4e50-a36e-e4682e6679b4)
 ![image](https://github.com/KiattiphumSuw/Google-Data-Analytics-Bellabeat-Case-study-with-R/assets/83391695/8244a8f5-2460-4dcf-b49b-05f56eeb244e)
+![image](https://github.com/KiattiphumSuw/Google-Data-Analytics-Bellabeat-Case-study-with-R/assets/83391695/cd87ccb7-9709-46f1-905f-3f330cec1d8e)
+
 
 ### library
 * tidyverse
